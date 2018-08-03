@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Welcome to BeadsMaster Store 
+## @Acton Children Business Fair 
 
-You can use the [editor on GitHub](https://github.com/lydia7106/BeadsMaster/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### The Ideas
+### Our Products
+### Our Inventory
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+![Image of Light Saber in make](https://github.com/lydia7106/BeadsMaster/blob/master/light-saber-in-make.JPG)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Image of Light Saber keychain](https://github.com/lydia7106/BeadsMaster/blob/master/light-saber-keychain.jpeg)
 
-```markdown
-Syntax highlighted code block
+![Image of Game KeyChains](https://github.com/lydia7106/BeadsMaster/blob/master/game-keychain.JPG)
 
-# Header 1
-## Header 2
-### Header 3
+![Image of Hair Issuer](https://github.com/lydia7106/BeadsMaster/blob/master/heart-hair-issuer.JPG)
 
-- Bulleted
-- List
+![Image of Cup Cover](https://github.com/lydia7106/BeadsMaster/blob/master/cup-cover.JPG)
 
-1. Numbered
-2. List
+![Image of Beads Car](https://github.com/lydia7106/BeadsMaster/blob/master/beads-car.JPG)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lydia7106/BeadsMaster/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

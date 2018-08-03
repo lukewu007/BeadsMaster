@@ -6,7 +6,7 @@
 ### Our Inventory
 
 
-![Image of Light Saber in make](https://github.com/lydia7106/BeadsMaster/blob/master/light-saber-in-make.JPG)
+![Image of Light Saber in make](https://raw.githubusercontent.com/lydia7106/BeadsMaster/master/light-saber-in-make.JPG)
 
 ![Image of Light Saber keychain](https://github.com/lydia7106/BeadsMaster/blob/master/light-saber-keychain.jpeg)
 

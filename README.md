@@ -18,5 +18,12 @@
 
 ![Image of Beads Car](https://raw.githubusercontent.com/lydia7106/BeadsMaster/master/beads-car.JPG)
 
+![Image of Picture Frames](https://raw.githubusercontent.com/lydia7106/BeadsMaster/master/assets/1.jpg)
 
+![Image of Picture Frames](https://raw.githubusercontent.com/lydia7106/BeadsMaster/master/assets/2.jpg)
 
+![Image of Picture Frames](https://raw.githubusercontent.com/lydia7106/BeadsMaster/master/assets/3.jpg)
+
+![Image of Picture Frames](https://raw.githubusercontent.com/lydia7106/BeadsMaster/master/assets/4.jpg)
+
+![Image of Picture Frames](https://raw.githubusercontent.com/lydia7106/BeadsMaster/master/assets/5.jpg)

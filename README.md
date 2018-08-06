@@ -2,7 +2,7 @@
 ## @Acton Children Business Fair 
 
 ## The Ideas
-#### Perler beads are great. We imagine and then we create something unique for you.
+#### Perler beads are great. We imagine and we create something unique for you.
 
 ## Our Products
 #### We use Perler beads to create crafts that are uniquely designed. We have Perler-beads cup cover, Perler-beads 3D car, Perler-beads keychains(star war theme, minercraft theme, etc.), and Perler-beads customized picture frames (many themes), and many more. 
